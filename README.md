@@ -6,9 +6,9 @@ Primeiramente, parabéns galera! Para chegarem até aqui sabemos que foi um cami
 
 Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome dos **feras** e seus **Slacks**:
                                                        
-* Andre Mendez, conhecido por **Mineiro**                   **@Andre Marcondes**
-* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**_______**@Lucas Aquiles**
-* Tson, conhecido por **Tson**_____________________________**@Robertson Souza**
+* Andre Mendez, conhecido por **Mineiro**______________________**@Andre Marcondes**
+* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**__________**@Lucas Aquiles**
+* Tson, conhecido por **Tson**______________________________**@Robertson Souza**
 * Luiz, conhecido por **Luiz**_____________________________**@Rómney Matsumoto**
 * Romney, conhecido por **Ronin**__________________________**@Andre Marcondes**
 
