@@ -1,10 +1,16 @@
-# Welcome to GitHub
+# Welcome Galeera!
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Primeiramente, parabéns galera! Para chegarem até aqui sabemos que foi um caminho cheio de desafios, um pouco mais facil para alguns e um pouco mais difícil para outros, mas com certeza, foi uma caminhada que exigiu muito esforço de vocês!
 
-## Repositories
+## Tutores
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome dos **feras** e seus **Slacks**:
+                                                       
+* Andre Mendez, conhecido por **Mineiro**                 **@Andre Marcondes
+* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**      **@Lucas Aquiles
+* Tson, conhecido por **Tson**                            **@Robertson Souza
+* Luiz, conhecido por **Luiz**                            **@Rómney Matsumoto
+* Romney, conhecido por **Ronin**                         **@Andre Marcondes
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
