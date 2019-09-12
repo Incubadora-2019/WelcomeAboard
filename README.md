@@ -6,20 +6,20 @@ Primeiramente, parabéns galera! Para chegarem até aqui sabemos que foi um cami
 
 Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome e contatos dos **feras**:
                                                        
-* Andre Mendez, conhecido por **Mineiro**
-  [Linkedin](https://www.linkedin.com/in/andremendesmarcondes/)
+* Andre Mendes, conhecido por **Mineiro**
+  [Linkedin](https://www.linkedin.com/in/andremendesmarcondes/) -
   [GitHub](https://github.com/AndreMendesMarcondes)
 * Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**
-  [Linkedin](https://www.linkedin.com/in/lucas-aquiles-1803b530/)
+  [Linkedin](https://www.linkedin.com/in/lucas-aquiles-1803b530/) -
   [GitHub](https://github.com/lucasaquiles)
 * Tson, conhecido por **Tson**
-  [Linkedin](https://www.linkedin.com/in/robertson-dc-souza/)
+  [Linkedin](https://www.linkedin.com/in/robertson-dc-souza/) -
   [GitHub](https://github.com/robertaison)
 * Luiz, conhecido por **Luiz**
-  [Linkedin](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alo-4bb8aab5/)
+  [Linkedin](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alo-4bb8aab5/) -
   [GitHub](https://github.com/LuizGoncalo)
-* Romney, conhecido por **Ronin**
-  [Linkedin](https://www.linkedin.com/in/romney-matsumoto/)
+* Romney Matsumoto, conhecido por **Ronin**
+  [Linkedin](https://www.linkedin.com/in/romney-matsumoto/) -
   [GitHub](https://github.com/romneymatsumoto)
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
