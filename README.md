@@ -7,10 +7,10 @@ Primeiramente, parabéns galera! Para chegarem até aqui sabemos que foi um cami
 Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome dos **feras** e seus **Slacks**:
                                                        
 * Andre Mendez, conhecido por **Mineiro**______________________**@Andre Marcondes**
-* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**__________**@Lucas Aquiles**
-* Tson, conhecido por **Tson**______________________________**@Robertson Souza**
-* Luiz, conhecido por **Luiz**_____________________________**@Rómney Matsumoto**
-* Romney, conhecido por **Ronin**__________________________**@Andre Marcondes**
+* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**_____________**@Lucas Aquiles**
+* Tson, conhecido por **Tson**________________________________**@Robertson Souza**
+* Luiz, conhecido por **Luiz**________________________________**@Rómney Matsumoto**
+* Romney, conhecido por **Ronin**____________________________**@Andre Marcondes**
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
