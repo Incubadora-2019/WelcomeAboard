@@ -4,13 +4,23 @@ Primeiramente, parabéns galera! Para chegarem até aqui sabemos que foi um cami
 
 ## Tutores
 
-Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome dos **feras** e seus **Slacks**:
+Nós seremos os responsáveis por guia-los nessa nova etapa, podem contar com o nosso grupo de tutores e entrar em contato com eles sempre que precisarem. Segue o nome e contatos dos **feras**:
                                                        
-* Andre Mendez, conhecido por **Mineiro**______________________**@Andre Marcondes**
-* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**_____________**@Lucas Aquiles**
-* Tson, conhecido por **Tson**________________________________**@Robertson Souza**
-* Luiz, conhecido por **Luiz**________________________________**@Rómney Matsumoto**
-* Romney, conhecido por **Ronin**____________________________**@Andre Marcondes**
+* Andre Mendez, conhecido por **Mineiro**
+  [Linkedin](url aqui)
+  [GitHub](url aqui)
+* Lucas Aquiles, conhedio por **Aquiles(ou Áquila)**
+  [Linkedin](url aqui)
+  [GitHub](url aqui)
+* Tson, conhecido por **Tson**
+  [Linkedin](url aqui)
+  [GitHub](url aqui)
+* Luiz, conhecido por **Luiz**
+  [Linkedin](url aqui)
+  [GitHub](url aqui)
+* Romney, conhecido por **Ronin**
+  [Linkedin](url aqui)
+  [GitHub](url aqui)
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
